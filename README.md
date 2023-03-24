@@ -1,5 +1,5 @@
 # TA12. DIAGRAMA ENTIDAD-RELACIÓN 
-# GRUPO 4. Alberto, Marc Saez y Paula.
+## GRUPO 4. Alberto, Marc Saez y Paula.
 
 ## - Ejercicio 1. Biblioteca v1
 Crear un diseño entidad relación (estando prohibido utilizar símbolos del modelo extendido) que permita gestionar los datos de una biblioteca de modo que:
